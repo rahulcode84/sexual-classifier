@@ -1,0 +1,9 @@
+# tensorflow-gpu
+tensorflow
+pillow
+requests
+numpy
+opencv-python
+nudenet
+matplotlib
+tqdm
